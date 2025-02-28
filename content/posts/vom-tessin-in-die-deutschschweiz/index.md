@@ -4,8 +4,6 @@ date = "2025-02-28"
 draft = false
 pinned = false
 +++
-
-
 {{<lead>}}
 
 **Umzug in eine unbekannt Sprach- und Gesellschaftskultur**
@@ -15,8 +13,6 @@ In der heutigen Zeit ist Migration ein grosses Thema. Viele Menschen verlassen i
 Bereits ein Umzug innerhalb der Schweiz kann eine Herausforderung sein. Die verschiedenen Sprachregionen und verschiedenen Kulturen innerhalb der Schweiz unterscheiden sich zum Teil deutlich. Ein Umzug vom Tessin nach Bern ist ein grosser Schritt.
 
 {{</lead>}}
-
-
 
 ***Wie fühlt es sich also an, in eine Region zu ziehen, die einem fremd ist?***
 
@@ -34,11 +30,7 @@ Ich habe Deutsch vor allem in der Schule gelernt. Dass mein ganzes Umfeld, ausse
 
 
 
-
-
 > "Ein paar Leute haben mich sicher schräg angeschaut"
-
-
 
 
 
@@ -60,13 +52,9 @@ Nein, nicht wirklich. Am Anfang vielleicht beim Bestellen im Restaurant. Wenn du
 
 
 
-
-
 > "Kinderbücher lesen"
 
 
-
- 
 
 **Welche Tipps würdest du jemandem geben, der in eine Region mit einer anderen Sprache zieht?**
 
@@ -79,8 +67,6 @@ Ich habe sicher einen grösseren Wortschatz auf Italienisch und ich kann mich vi
 **Wie hat sich deine Sicht auf Sprache und Kommunikation durch diese Erfahrungen verändert?**
 
 Eigentlich kann man sich auch ohne Sprache verständigen. Wenn du an einem Ort lebst, wo eine andere Sprache gesprochen wird, dann bist zu gezwungen diese zu lernen.
-
-
 
 {{<box>}}
 
