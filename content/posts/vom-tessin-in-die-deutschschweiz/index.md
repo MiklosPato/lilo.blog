@@ -4,11 +4,7 @@ date = "2025-02-28"
 draft = false
 pinned = false
 +++
-
-
  **Umzug in eine unbekannt Sprach- und Gesellschaftskultur**
-
-
 
 In der heutigen Zeit ist Migration ein grosses Thema. Viele Menschen verlassen ihren Geburtsort und ziehen in ein anderes Land mit einer anderen Kultur und einer anderen Sprache. Dies bedeutet für die betroffenen Menschen einen grossen Wechsel, der eine grosse Anpassung von Ihnen verlangt.
 
@@ -18,11 +14,7 @@ Bereits ein Umzug innerhalb der Schweiz kann eine Herausforderung sein. Die vers
 
 Diese Frage habe ich Greta Gruosso gestellt. Sie ist mit ihrer Familie im Alter von 12 Jahren von Locarno nach Köniz gezogen. In der Schule Spiegel kam sie in die 6. Klasse ohne ein Wort Deutsch zu sprechen oder die kulturellen Unterschiede zu kennen. Heute hat sie sich in der Deutschschweiz eingelebt und spricht fast perfekt. Nach anfänglichen Sprachschwierigkeiten in der Schule hat sie diese schnell aufgeholt und ist nun im Abschlussjahr der Berufsmatur der Fachmittelschule (FMS).
 
- 
-
 Greta hat sich Zeit genommen, mit mir über ihre Erfahrungen zu sprechen. Sie ist die Freundin meines grossen Bruders und er ist ein Teil ihres Schweizerdeutschen Umfeldes. Nach dem Nachtessen sitzen wir am Tisch und Greta erzählt mir, was sie nach ihrem Umzug vom Tessin nach Bern erlebt hat.
-
- 
 
 **Miklós Pato: Welche sprachlichen Herausforderungen gab es in den ersten Monaten, nachdem du in die neue Sprachregion gezogen bist?**
 
@@ -34,7 +26,11 @@ Ich habe Deutsch vor allem in der Schule gelernt. Dass mein ganzes Umfeld, ausse
 
 
 
+
+
 > "Ein paar Leute haben mich sicher schräg angeschaut"
+
+
 
 
 
@@ -54,11 +50,15 @@ Ein paar Personen haben mich sicher schräg angeschaut. Die meisten Leute haben 
 
 Nein, nicht wirklich. Am Anfang vielleicht beim Bestellen im Restaurant. Wenn du Sprudelwasser möchtest und das nicht richtig ausdrücken kannst, dann bekommst Du halt normales Wasser.
 
+
+
+
+
+> "Kinderbücher lesen"
+
+
+
  
-
-> "Kinderbücher lesen" 
-
-
 
 **Welche Tipps würdest du jemandem geben, der in eine Region mit einer anderen Sprache zieht?**
 
@@ -70,4 +70,4 @@ Ich habe sicher einen grösseren Wortschatz auf Italienisch und ich kann mich vi
 
 **Wie hat sich deine Sicht auf Sprache und Kommunikation durch diese Erfahrungen verändert?**
 
-Greta: Eigentlich kann man sich auch ohne Sprache verständigen. Wenn du an einem Ort lebst, wo eine andere Sprache gesprochen wird, dann bist zu gezwungen diese zu lernen.
+> Greta: Eigentlich kann man sich auch ohne Sprache verständigen. Wenn du an einem Ort lebst, wo eine andere Sprache gesprochen wird, dann bist zu gezwungen diese zu lernen.
