@@ -26,6 +26,8 @@ Greta: Ich musste zuerst lernen die Sprache zu sprechen und das Schreiben war se
 
 ![](screenshot-2025-02-28-195236.png)
 
+![]()
+
 **Wie hast Du Deutsch gelernt und was hat dir dabei geholfen?**
 
 Ich habe Deutsch vor allem in der Schule gelernt. Dass mein ganzes Umfeld, ausser meiner Familie, nur Deutsch gesprochen hat, war auch sehr hilfreich. Ich war somit gezwungen in dieser Sprache zu sprechen und sie verstehen zu lernen. Was auch hilfreich sein kann ist Bücher zu lesen oder Filme in der neuen Sprache zu schauen.
