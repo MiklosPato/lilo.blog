@@ -24,15 +24,13 @@ Greta hat sich Zeit genommen, mit mir über ihre Erfahrungen zu sprechen. Sie is
 
 Greta: Ich musste zuerst lernen die Sprache zu sprechen und das Schreiben war sehr schwierig. Grammatik konnte ich nur sehr schlecht. Vor allem die Artikel: der, die, das waren sehr schwierig für mich. Auch hatte und habe ich immer noch Mühe damit, ob ein Wort mit «ck» oder nur mit «k» geschrieben wird.
 
+![](screenshot-2025-02-28-195236.png)
+
 **Wie hast Du Deutsch gelernt und was hat dir dabei geholfen?**
 
 Ich habe Deutsch vor allem in der Schule gelernt. Dass mein ganzes Umfeld, ausser meiner Familie, nur Deutsch gesprochen hat, war auch sehr hilfreich. Ich war somit gezwungen in dieser Sprache zu sprechen und sie verstehen zu lernen. Was auch hilfreich sein kann ist Bücher zu lesen oder Filme in der neuen Sprache zu schauen.
 
-
-
 > "Ein paar Leute haben mich sicher schräg angeschaut"
-
-
 
 **Hat es Missverständnisse oder lustige Situationen gegeben aufgrund deiner Sprachbarriere?**
 
@@ -50,11 +48,7 @@ Ein paar Personen haben mich sicher schräg angeschaut. Die meisten Leute haben 
 
 Nein, nicht wirklich. Am Anfang vielleicht beim Bestellen im Restaurant. Wenn du Sprudelwasser möchtest und das nicht richtig ausdrücken kannst, dann bekommst Du halt normales Wasser.
 
-
-
 > "Kinderbücher lesen"
-
-
 
 **Welche Tipps würdest du jemandem geben, der in eine Region mit einer anderen Sprache zieht?**
 
