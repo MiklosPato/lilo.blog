@@ -79,3 +79,11 @@ Ich habe sicher einen grösseren Wortschatz auf Italienisch und ich kann mich vi
 **Wie hat sich deine Sicht auf Sprache und Kommunikation durch diese Erfahrungen verändert?**
 
 Eigentlich kann man sich auch ohne Sprache verständigen. Wenn du an einem Ort lebst, wo eine andere Sprache gesprochen wird, dann bist zu gezwungen diese zu lernen.
+
+
+
+{{<box>}}
+
+Greta Gruosso ist 20 Jahre alt und schliesst im Sommer 2025 die Berufsmaturität der Fachmittel Schule (FMS) Lerbermatt/Bern ab.   Ab August 2025 wird sie in den Passarellen-Lehrgang starten. Sie lebt mit ihren Eltern in der Gemeinde Köniz. Regelmässig besucht sie ihre grosse Verwandtschaft im Tessin. Das Leben in zwei Sprachwelten ist für sie zur Normalität geworden.
+
+{{</box>}}
