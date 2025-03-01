@@ -3,6 +3,7 @@ title = "Vom Tessin in die Deutschschweiz"
 date = "2025-02-28"
 draft = false
 pinned = false
+image = "whatsapp-bild-2025-03-01-um-11.01.22_f15f41cb.jpg"
 +++
 {{<lead>}}
 
