@@ -20,7 +20,7 @@ Diese Frage habe ich Greta Gruosso gestellt. Sie ist mit ihrer Familie im Alter 
 
 Greta hat sich Zeit genommen, mit mir über ihre Erfahrungen zu sprechen. Sie ist die Freundin meines grossen Bruders und er ist ein Teil ihres Schweizerdeutschen Umfeldes. Nach dem Nachtessen sitzen wir am Tisch und Greta erzählt mir, was sie nach ihrem Umzug vom Tessin nach Bern erlebt hat.
 
-**Miklós Pató: Welche sprachlichen Herausforderungen gab es in den ersten Monaten, nachdem du in die neue Sprachregion gezogen bist?**
+**Miklós Pato: Welche sprachlichen Herausforderungen gab es in den ersten Monaten, nachdem du in die neue Sprachregion gezogen bist?**
 
 Greta Gruosso: Ich musste zuerst lernen die Sprache zu sprechen und das Schreiben war sehr schwierig. Grammatik konnte ich nur sehr schlecht. Vor allem die Artikel: der, die, das waren sehr schwierig für mich. Auch hatte und habe ich immer noch Mühe damit, ob ein Wort mit «ck» oder nur mit «k» geschrieben wird.
 
